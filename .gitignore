@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.output/
+transcripts.tar.gz
+*.tar.gz
+u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990-kit/
+BUILD-REPORT.md
